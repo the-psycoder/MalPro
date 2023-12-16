@@ -8,10 +8,10 @@ import os
 first_execution_command = 'x=msgbox("Your system is hacked, hahahahahaha!!!", 5+16, "Evil Mode")'
 second_execution_command = 'echo @ff\nstart www.youtube.com\nstart www.fast.com\nstart www.netflix.com'
 
-fe_old_file = "F:\\virone.txt"
-fe_new_file = "F:\\virone.vbs"
-se_old_file = "F:\\virtwo.txt"
-se_new_file = "F:\\virtwo.bat"
+fe_old_file = "F:\\virone.txt" # Change value according to your path
+fe_new_file = "F:\\virone.vbs" # Same
+se_old_file = "F:\\virtwo.txt" # Same
+se_new_file = "F:\\virtwo.bat" # Same
 
 with open(fe_old_file, 'w+') as fe_file:
     fe_file.write(first_execution_command)
