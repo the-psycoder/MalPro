@@ -6,6 +6,23 @@
 
 ###
 
+<h1 align="center">How to set it?</h1>
+
+###
+
+<p align="center">
+  1. Download and install this program for autorun : https://en.softonic.com/download/usb-autorun-creator/windows/post-download<br>
+  2. Move "MalPro.py" and "runcode.bat" to your pendrive<br>
+  3. Select "runcode.bat" to autorun "MalPro.py" from your pendrive<br>
+  3. Select your that pendrive to create "autorun.inf" file<br>
+  4. Now click on create and you are all good to go<br>
+  5. After creation done, just remove your pendrive and re-enject this.<br>
+  6. Boom!!<br>
+  [ Note : You have to remove your pendrive when it goes to hard. Otherwise, problem might come!! ]
+</p>
+
+###
+
 <h1 align="center">Disclaimer</h1>
 
 ###
